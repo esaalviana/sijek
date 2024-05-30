@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="flutter.session_auth_id" value="{id}" />
+    <string name="flutter.session_auth_email">{email}</string>
+    <string name="flutter.token">{token}</string>
+    <boolean name="flutter.session_consent_info_ConsentGiven" value="true" />
+    <string name="flutter.session_auth_info_auth_flow">signIn</string>
+    <string name="flutter.session_auth_signed_up_country">{signed_up_country}</string>
+    <string name="flutter.session_auth_name">{name}</string>
+    <boolean name="flutter.session_auth_email_verified" value="false" />
+    <string name="flutter.session_auth_phone_country_code">{country_code}</string>
+    <string name="flutter.session_auth_phone">{phone}</string>
+</map>
